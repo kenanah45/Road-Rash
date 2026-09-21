@@ -229,4 +229,4 @@ Road Rash is available as a complete free version for Windows, with all features
 Don't wait! Experience the thrill of Road Rash today by downloading your free copy now!
 
 ---
-**Last updated:** 2026-09-21 16:13:53 UTC
+**Last updated:** 2026-09-21 20:48:20 UTC
